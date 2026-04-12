@@ -1,7 +1,7 @@
 > **Welcome to my digital space.**  
 > This repository contains the source code for my personal portfolio website, designed with a modern "Cosmic Neon" aesthetic, smooth animations, and solid SEO fundamentals.
 
-![LIAND.DEV Preview](image/LIAND-DEV.png)
+![LIAND.DEV Preview](https://liand-dev.vercel.app/image/LIAND-DEV.png)
 
 ## 👨‍💻 About Me
 Halo! Saya **Liand Al Haq** (dikenal juga sebagai Liand.fullstackdev). Saya adalah seorang pelajar berusia 13 tahun yang memiliki mimpi besar menjadi seorang **Full-Stack Developer** profesional. 
