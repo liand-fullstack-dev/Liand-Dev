@@ -25,7 +25,7 @@ Proyek ini dibangun menggunakan fondasi web murni untuk memaksimalkan kecepatan 
 *I am also currently expanding my skills in HTML CSS, JavaScript, and Python!*
 
 🤝 Connect With  Me
-​Mari terhubung dan berdiskusi seputar teknologi, web development, atau kolaborasi proyek!
+  ​Mari terhubung dan berdiskusi seputar teknologi, web development, atau kolaborasi proyek!
  ​Instagram: @liand_al_haq
  ​TikTok: @liandggxcash 
  ​GitHub: liand-fullstack-dev 
