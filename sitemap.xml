@@ -1,23 +1,9 @@
-import datetime
-
-# Konfigurasi data sitemap
-domain = "https://liand-dev.vercel.app"
-last_mod = datetime.date.today().isoformat()
-
-sitemap_content = f"""<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>{domain}/</loc>
-      <lastmod>{last_mod}</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-   </url>
+  <url>
+    <loc>https://liand-dev.vercel.app/</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
-"""
-
-# Menyimpan file
-file_path = "sitemap.xml"
-with open(file_path, "w") as f:
-    f.write(sitemap_content)
-
-print(f"File {file_path} berhasil dibuat.")
