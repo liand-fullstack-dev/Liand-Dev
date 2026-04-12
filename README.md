@@ -1,6 +1,5 @@
-# 🌌 LIAND.DEV | Personal Portfolio
-
-> **Welcome to my digital space.** > This repository contains the source code for my personal portfolio website, designed with a modern "Cosmic Neon" aesthetic, smooth animations, and solid SEO fundamentals.
+> **Welcome to my digital space.**  
+> This repository contains the source code for my personal portfolio website, designed with a modern "Cosmic Neon" aesthetic, smooth animations, and solid SEO fundamentals.
 
 ![LIAND.DEV Preview](image/LIAND-DEV.png)
 
