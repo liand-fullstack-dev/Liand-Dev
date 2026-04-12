@@ -142,3 +142,16 @@ document.querySelectorAll('.btn-trakteer').forEach(button => {
         }
     });
 });
+
+window.addEventListener('load', function() {
+    const loader = document.getElementById('loader-wrapper');
+    
+    setTimeout(() => {
+        if(loader) {
+            loader.classList.add('loader-hidden');
+            setTimeout(() => {
+                loader.remove();
+            }, 600); 
+        }
+    }, 1800); 
+});
