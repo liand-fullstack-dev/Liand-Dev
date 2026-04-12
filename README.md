@@ -26,11 +26,12 @@ Proyek ini dibangun menggunakan fondasi web murni untuk memaksimalkan kecepatan 
 
 🤝 Connect With Me
 ​Mari terhubung dan berdiskusi seputar teknologi, web development, atau kolaborasi proyek!
-​Instagram: @liand_al_haq
-​TikTok: @liandggxcash 
-​GitHub: liand-fullstack-dev 
-​Email: liand.fullstackdev@gmail.com 
-Kunjungi juga web saya:🌐![Liand Hub](https://liand-hub.vercel.app) 
+ ​Instagram: @liand_al_haq
+ ​TikTok: @liandggxcash 
+ ​GitHub: liand-fullstack-dev 
+ ​Email: liand.fullstackdev@gmail.com 
+ Whatsapp:0823-8273-4762
+Kunjungi juga web saya: 🌐![Liand Hub](https://liand-hub.vercel.app) 
 ​☕ Support My Work
 ​Jika kamu menyukai apa yang saya bangun dan ingin mendukung perjalanan coding saya, kamu bisa memberikan dukungan melalui Trakteer. Setiap dukungan sangat berarti untuk server, domain, dan kopi saat coding malam hari!
 ​<p align="center">
