@@ -24,13 +24,25 @@ Proyek ini dibangun menggunakan fondasi web murni untuk memaksimalkan kecepatan 
 *I am also currently expanding my skills in HTML CSS, JavaScript, and Python!*
 
 ## 🤝 Connect With Me
+
 Mari terhubung dan berdiskusi seputar teknologi, web development, atau kolaborasi proyek!
 
-- Instagram: @liand_al_haq  
-- TikTok: @liandggxcash  
-- GitHub: liand-fullstack-dev  
-- Email: liand.fullstackdev@gmail.com  
-- WhatsApp: 0823-8273-4762  
+---
+
+### 🌐 Social & Platforms
+
+![Instagram](https://img.shields.io/badge/Instagram-@liand__al__haq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-@liandggxcash-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-liand--fullstack--dev-181717?style=for-the-badge&logo=github)
+
+---
+
+### 📬 Contact
+
+![Email](https://img.shields.io/badge/Email-liand.fullstackdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-0823--8273--4762-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+--- 
 
 Kunjungi juga web saya: 🌐 [Liand Hub](https://liand-hub.vercel.app)
 
