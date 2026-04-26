@@ -44,7 +44,13 @@ Mari terhubung dan berdiskusi seputar teknologi, web development, atau kolaboras
 
 --- 
 
-Kunjungi juga web saya: 🌐 [Liand Hub](https://liand-hub.vercel.app)
+### 🌍 Website
+
+🚀 **Liand Hub** → https://liand-hub.vercel.app  
+
+[![Visit Website](https://img.shields.io/badge/Visit%20Liand%20Hub-Click%20Here-blueviolet?style=for-the-badge&logo=vercel)](https://liand-hub.vercel.app)
+
+---
 
 ## ☕ Support My Work
 
